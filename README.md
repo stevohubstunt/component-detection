@@ -1,4 +1,4 @@
-
+Copilot for Xcode/Credits.rtf
 <h1 align="center">
   <br>
   <img src="docs/images/readme/component-detection.png" alt="Component Detection" width="200">
